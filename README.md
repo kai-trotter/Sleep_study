@@ -3,7 +3,8 @@ Sleep is essential for maintaining both physical and mental health, influencing 
 
 Key Deliverables:
 
-Conducted exploratory data analysis (EDA) to identify sleep patterns.
-Uncovered correlations between lifestyle habits and sleep quality.
-Developed data-driven recommendations for better sleep.
+1. Conducted exploratory data analysis (EDA) to identify sleep patterns.
+2. Uncovered correlations between lifestyle habits and sleep quality.
+3. Developed data-driven recommendations for better sleep.
+
 This project highlights my ability to analyze real-world datasets, visualize findings, and provide meaningful insights to address practical challenges.
